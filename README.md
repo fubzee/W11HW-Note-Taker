@@ -66,8 +66,9 @@ There no test scripts.  All functional testing has been completed:-
 
    ### Acceptance Criteria
 
-   |---|---|
+  
    |checked| Criteria|
+    | :---: | :---|
    |[X] | Landing Page with a link to a Notes Page|
    
    |[X] | Click on link and notes page appears|
