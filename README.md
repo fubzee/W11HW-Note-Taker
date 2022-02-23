@@ -49,7 +49,7 @@ There are no licences.
 
 ## Usage
 
-This application ises the following NPM packages:
+This application uses the following NPM packages:
 - fs
 - path
 - uuid
