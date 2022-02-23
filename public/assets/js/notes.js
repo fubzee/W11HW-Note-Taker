@@ -1,4 +1,4 @@
-require (`./helpers/uuid.js`);
+require (`./helpers/uuid.js.js`);
 const notes = require('./db/db.json');
 
   const note = [
