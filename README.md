@@ -37,10 +37,7 @@ There is an option to remove/delete items from the list.
 
 ### Backend
 
-Express.js using the following NPM packages:
-- fs
-- path
-- uuid
+Express.js 
 
 ### Deployment
 
@@ -52,6 +49,10 @@ There are no licences.
 
 ## Usage
 
+This application ises the following NPM packages:
+- fs
+- path
+- uuid
 
 ## Contributing
 
@@ -75,7 +76,6 @@ There no test scripts.  All functional testing has been completed:-
 | [X]  	| Notes are deleted and are removed from the list  	|   
 | [X]  	| Clicking on a note displays the content in the notes right column  	|   
 | [X]  	| Clicking on the write column initialised the right column so that more content is added  	|   
- 
    
 
 ## Git Profile  :link:
