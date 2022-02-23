@@ -66,22 +66,16 @@ There no test scripts.  All functional testing has been completed:-
 
    ### Acceptance Criteria
 
-  
-   |checked| Criteria|
-    | :---: | :---|
-   |[X] | Landing Page with a link to a Notes Page|
-   
-   |[X] | Click on link and notes page appears|
-   
-   |[X] | Notes appear in the left column|
-   
-   |[X] | Notes are added when the save button is clicked|
-  
-   |[X] | Notes are deleted and are removed from the list|
-  
-   |[X] | Clicking on a note displays the content in the notes right column|
-   
-   |[X] | Clicking on the write column initialised the right column so that more content is added|
+| Checked  	| Criteria  	|   	
+| :---:	| :---	|
+| [X]  	| Landing Page with a link to a Notes Page  	|  
+| [X]  	| Click on link and notes page appears  	|
+| [X]  	| Notes appear in the left column 	|   
+| [X]  	| Notes are added when the save button is clicked  	|   
+| [X]  	| Notes are deleted and are removed from the list  	|   
+| [X]  	| Clicking on a note displays the content in the notes right column  	|   
+| [X]  	| Clicking on the write column initialised the right column so that more content is added  	|   
+ 
    
 
 ## Git Profile  :link:
